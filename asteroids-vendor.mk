@@ -1593,7 +1593,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.connectionaidl.xml \
     vendor.qti.hardware.data.iwlandata.xml \
     vendor.qti.hardware.embmssl.xml \
-    vendor.qti.hardware.lights.service.xml \
     vendor.qti.hardware.limits-service.xml \
     vendor.qti.hardware.perf2.xml \
     vendor.qti.hardware.power.powermodule.xml \
